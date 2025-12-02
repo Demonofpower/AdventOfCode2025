@@ -20,4 +20,4 @@ foreach (var line in lines)
     start = (start + delta % 100 + 100) % 100;
 }
 
-Console.WriteLine(secret);
+Console.WriteLine(secret);  

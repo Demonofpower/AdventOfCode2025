@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/intellij+all,rider,clion+all,webstorm+all,csharp,c++,cmake,python,java,node,rust
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij+all,rider,clion+all,webstorm+all,csharp,c++,cmake,python,java,node,rust
 
+.vscode
+
 ### C++ ###
 # Prerequisites
 *.d
