@@ -1044,3 +1044,6 @@ Cargo.lock
 
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,rider,clion+all,webstorm+all,csharp,c++,cmake,python,java,node,rust
+
+package.json
+package-lock.json
